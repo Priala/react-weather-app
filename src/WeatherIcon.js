@@ -1,5 +1,5 @@
 import React from "react";
-import ReactAnimatedWeather from "react-animated-weather/devDependencies/ReactAnimatedWeather";
+import ReactAnimatedWeather from "react-animated-weather/package.json";
 
 export default function WeatherIcon(props) {
   const codeMapping = {
